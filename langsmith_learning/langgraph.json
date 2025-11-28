@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./src/human_in_the_loop.py:agent"
+  },
+  "env": ".env"
+}
